@@ -13,4 +13,4 @@ que dice **Convertidor-Alura** si aùn no se ejecuta debera de ubicarse
 atravez de la consola de comandos en la carpeta y ejecutar el siguiente
 comando **java -jar Convertidor-Alura.jar**
 
-!(/img/img1.PNG)
+<image src="/img/img1.PNG">
