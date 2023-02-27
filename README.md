@@ -24,6 +24,7 @@ opciones a las cuales puedes convertir los valores ingresados
 
 La aplicacion no dejara que ingreses valores distintos a **numeros**
 si se llegara a intentar automaticamente te saltara la advertencia
+
 <image src="/img/img5.PNG">
 
 Despues de haber ingresado el valor solo debes de dar clic  en el
@@ -35,4 +36,4 @@ clic en el **boton limpiar**
 <image src="/img/img7.PNG">
 
 ### Aqui una pequeña demostracion de su funcionamiento
-
+<image src="/img/Convertidor.gif">
