@@ -18,21 +18,21 @@ comando **java -jar Convertidor-Alura.jar**
 ## Funciones de la Aplicación
 La aplicacion sus funciones no poseen mucha complejidad, estan las
 opciones a las cuales puedes convertir los valores ingresados
-<image src="/img/img2.PNG">
-<image src="/img/img3.PNG">
-<image src="/img/img4.PNG">
+<image src="/img/img2.png">
+<image src="/img/img3.png">
+<image src="/img/img4.png">
 
 La aplicacion no dejara que ingreses valores distintos a **numeros**
 si se llegara a intentar automaticamente te saltara la advertencia
-<image src="/img/img5.png">
+<image src="/img/img5.PNG">
 
 Despues de haber ingresado el valor solo debes de dar clic  en el
 boton convertir correspondiente a la operaciòn y todo estaria listo
-<image src="/img/img6.png">
+<image src="/img/img6.PNG">
 
 para borrar los valores en todas las casillas es tan facil como dar
 clic en el **boton limpiar** 
-<image src="/img/img7.png">
+<image src="/img/img7.PNG">
 
 ### Aqui una pequeña demostracion de su funcionamiento
 
